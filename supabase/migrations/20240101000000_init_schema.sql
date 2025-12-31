@@ -539,3 +539,4 @@ COMMENT ON COLUMN public.selections.gallery_id IS 'Denormalized for faster RLS l
 COMMENT ON COLUMN public.galleries.settings IS 'JSONB containing allow_download, allow_selection, watermark_enabled';
 COMMENT ON COLUMN public.assets.metadata IS 'JSONB containing EXIF data: Camera, Lens, ISO, etc.';
 
+
